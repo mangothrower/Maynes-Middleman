@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Keystone Classic",
+    "date": "May 17th - 18th",
+    "state": "Pennsylvania",
+    "city": "Centre Hall"
+  },
+  {
+    "name": "Interstate Preview Show",
+    "date": "June 20th - 21st",
+    "state": "West Virginia",
+    "city": "Kearneysville"
+  },
+  {
+    "name": "Firecracker Classic",
+    "date": "July 4th-6th",
+    "state": "West Virginia",
+    "city": "Kearneysville"
+  },
+  {
+    "name": "Maryland State Fair",
+    "date": "August 24th",
+    "state": "Maryland",
+    "city": "Timonium"
+  }
+]

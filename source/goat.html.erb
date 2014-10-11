@@ -1,0 +1,9 @@
+---
+title: Mayne's Boer Goats
+reg_num: 10477517
+---
+<%= partial "goatLayout" %>
+<script>
+	var reg_num = getURLParameter('reg_num')
+ 	goatPages.getGoats(goatPageLayout, {reg_num: reg_num })
+</script>

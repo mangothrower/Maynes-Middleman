@@ -1,0 +1,40 @@
+---
+title: Mayne's Boer Goats - Does For Sale
+page: Does For Sale
+page_title: Does For Sale
+---
+
+<h4>Update 9/29/14</h4>
+<p class='lead'>Contact Ed at 301-676-6275 for the most up to date information on availability or with any questions about animals or pricing or to set up a time to come view the does.</p>
+<p style='font-size:12pt;'><b>We also have a group of young junior doe kids for sale, priced starting at $350. More information to come.</b></p>
+<div class='row'>
+	<div class='col-md-10 col-sm-10 col-md-offset-1 col-sm-10 col-sm-offset-1'>
+		<table class='table table-striped'>
+			<%for sale in data.forSale.does%>
+			<tr>
+				<td>
+					<div class='row'>
+						<div class='col-md-5 col-sm-4'>
+							<%= link_to (image_tag sale.img, :class=>'img-responsive'), sale.link %>
+						</div>
+						<div class='col-md-7 col-sm-8'>
+							<%if sale.link %>
+								<h3><%=link_to sale.name, sale.link%></h3>
+							<%else%>
+								<h3><%=sale.name%></h3>
+							<%end%>
+							<ul class='list-unstyled forSale_info' style='text-align:left;'>
+								<li><u>Sire</u>: <%= sale.sire%></li>
+								<li><u>Dam</u>: <%= sale.dam%></li>
+								<li><u>Date of Birth</u>: <%=sale.dob%></li>
+								<li><u>Price</u>: <%=sale.price%></li>
+							</ul>
+							<p><%=sale.info%></p>
+						</div>
+					</div>
+				</td>
+			</tr>
+		<%end%>
+	</table>
+	</div>
+</div>

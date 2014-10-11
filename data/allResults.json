@@ -1,0 +1,84 @@
+[
+    {
+        "place": "Overall Grand Champion",
+        "group": "Buck",
+        "name": "KATIE Confirmed",
+        "show": "2014 Delmarva Classic JABGA show",
+        "dam": "AABG Sharpay Diem",
+        "sire": "HBS Absolute",
+        "dam_link": "Does/10633457",
+        "link": "/Bucks/10637531",
+        "pic": "/img/shows/2014/delmarva/confirmed_jabga.jpg"
+    },
+    {
+        "place": "Overall Grand Champion",
+        "group": "Fullblood Doe",
+        "name": "KATIE Nova",
+        "show": "2014 Delmarva Classic JABGA show",
+        "sire": "HBS Absolute",
+        "dam_link": "Does/10633457",
+        "dam": "AABG Sharpay Diem",
+        "link": "/Does/10637532",
+        "pic": "/img/shows/2014/delmarva/nova_jabga.jpg"
+    },
+    {
+        "place": "Overall Reserve Grand Champion",
+        "group": "Fullblood Doe",
+        "name": "KATIE Ginger",
+        "show": "2014 Delmarva Classic JABGA show",
+        "sire": "GF5 Boss Hog",
+        "sire_link": "/Bucks/10566999",
+        "dam_link": "Does/10633457",
+        "dam": "CTR1 LCF6 Lemon Pepper (10505858)",
+        "dam_link": "/Does/10505858",
+        "link": "/Does/10602246",
+        "pic": "/img/shows/2014/delmarva/ginger_jabga.jpg"
+    },
+    {
+        "place": "Overall Grand Champion",
+        "group": "Percentage Doe",
+        "name": "KATIE Dottie",
+        "show": "2014 Frederick Fair",
+        "dam": "Boer X",
+        "sire": "KATIE KT Gunner",
+        "sire_link": "Bucks/10497185",
+        "link": "Does/10569650",
+        "pic": "/img/shows/2014/frederick/dottie_overall.jpg"
+    },
+    {
+        "place": "Overall Reserve Champion",
+        "group": "Buck",
+        "name": "KATIE Confirmed",
+        "show": "2014 Maryland State Fair",
+        "dam": "AABG Sharpay Diem",
+        "sire": "HBS Absolute",
+        "dam_link": "Does/10633457",
+        "link": "/Bucks/10637531",
+        "pic": "/img/shows/2014/MD_State/confirmed_reserve_overall.JPG"
+    },
+    {
+        "place": "Overall Grand Champion",
+        "group": "Percentage Doe",
+        "name": "KATIE Pecan",
+        "show": "2014 Maryland State Fair",
+        "dam": "Betty Lou",
+        "sire": "KATIE KT Gunner",
+        "dam_link": "Does/10503387",
+        "sire_link": "Bucks/10497185",
+        "link": "Does/10602248",
+        "pic": "/img/shows/2014/MD_State/pecan_overall.jpg"
+    },
+    {
+        "place": "Champion Yearling",
+        "group": "Fullblood Doe",
+        "name": "KATIE Ginger",
+        "show": "2014 Firecracker Classic Show 3 JABGA",
+        "sire": "GF5 Boss Hog",
+        "sire_link": "/Bucks/10566999",
+        "dam_link": "Does/10633457",
+        "dam": "CTR1 LCF6 Lemon Pepper (10505858)",
+        "dam_link": "/Does/10505858",
+        "link": "/Does/10602246",
+        "pic": "/img/shows/2014/firecracker/ginger_yearling.jpg"
+    }
+]
