@@ -103,8 +103,8 @@ end
 activate :s3_sync do |s3_sync|
     s3_sync.bucket                     = 'maynesboergoats.com' # The name of the S3 bucket you are targetting. This is globally unique.
     s3_sync.region                     = 'us-east-1'     # The AWS region for your bucket.
-    s3_sync.aws_access_key_id          = 'AKIAJJABRNKNKS6GYPCA'
-    s3_sync.aws_secret_access_key      = 'gB2S9lU5ZNsMSDxrsTQSS+UMLzpv5XZKmyReUU2x'
+    s3_sync.aws_access_key_id          = 'AKIAJWHG5TUV3DPD7HYA'
+    s3_sync.aws_secret_access_key      = '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'
     s3_sync.delete                     = true # We delete stray files by default.
     s3_sync.after_build                = false # We do not chain after the build step by default.
     s3_sync.prefer_gzip                = true
